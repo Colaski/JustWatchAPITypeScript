@@ -1,6 +1,6 @@
-# Unofficial and Minimal JustWatch API Implemented in TypeScript
+# Unofficial JustWatch API
 
-This is roughly/loosely based on [dawoudt's](https://github.com/dawoudt) [JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) which is written in Python. As such, the same disclaimer applies:
+This is roughly/loosely based on [dawoudt's](https://github.com/dawoudt) [JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) which is written in Python while this implementation is written in TypeScript. Hence, the same disclaimer applies:
 
 ##  Disclaimer
 **This is not the official JustWatch API. JustWatch doesn't offer an open API and doesn't plan to do this in the future.**
@@ -12,7 +12,8 @@ JustWatch is also hiring: https://www.justwatch.com/us/talent and has some inter
 
 - [JustWatch on Github](https://github.com/justwatchcom)
 
-
 ## How To
 
-Read the source 🙃. I may update this readme with a better howto/guide in the future.
+Read the source 🙃 and/or check out [Global Streaming Search](https://github.com/Colaski/global-streaming-search).
+
+I may update this readme with a better howto/guide in the future.
